@@ -11,27 +11,7 @@ Use below naming conventions:
 4. __ : for color, state like __active, __inactive, __focus, __empty, __full etc (attribute)
 5. moduleName-module2: can have elements to it like moduleName-othermModule--element__state
 
-Examples:   
+Examples in naming-convention.txt file.
 
-1. <div class="tweet">
-        <h3 class="tweet--counter">1</h3>
-        <h3 class="tweet--title">My Tweet title</h3>        
-        <p class="tweet--content">Tweet content goes here...</p>
-        <p class="tweet--content__maxLength">Sorry...! You tweets exceeds 140 characters. </p>
-        <p class="tweet--content__empty">This is empty tweet. </p>
-        <button class="btn tweet-btn--addTweet"></span>
-        <button class="btn tweet-btn--deleteTweet"></span>
-        <button class="btn tweet-btn--deleteTweet__disable"></span>
-        <button class="btn tweet-btn--deleteTweet__hide"></span>
-    </div>
-
-2. <div class="pageHeader">
-        <span class="pageHeader--title">
-            My Projects
-        </span>
-        <button class="btn pageHeader-btn--addProject">+ Add</button>
-    </div>
-    
-    
-    
- ------- will keep on adding more naming -------
+Thanks,
+Yogesh Asthana
